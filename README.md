@@ -1,3 +1,3 @@
-# htdocs
-learning php
+# News
+learning php\
 Ручной MVC проект
