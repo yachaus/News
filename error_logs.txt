@@ -1,0 +1,366 @@
+2019-05-19 13:54:02		/Applications/MAMP/htdocs/App/Models/News.php(21)	Автор не выбран
+
+2019-05-19 13:54:02		/Applications/MAMP/htdocs/App/Models/News.php(24)	Текст новости отсутствует
+
+2019-05-19 13:58:04		/Applications/MAMP/htdocs/App/Model.php(22)		Пользователя №1110 не существует!
+
+2019-05-19 13:58:20		/Applications/MAMP/htdocs/App/Db.php(17)		Невозможно подключиться к базе данных!
+
+2019-05-20 08:46:41		/Applications/MAMP/htdocs/App/Db.php(17)		Невозможно подключиться к базе данных!
+
+2019-05-20 08:53:18		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №3 не существует!
+
+2019-05-20 08:53:46		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №3 не существует!
+
+2019-05-20 08:54:21		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №3 не существует!
+
+2019-05-20 08:54:38		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:27		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:28		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:28		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:28		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:28		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:29		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:29		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:29		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:29		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:29		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:30		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:30		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:30		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:45		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:46		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:46		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:46		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:55:59		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:00		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:01		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:01		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:01		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:01		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:01		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:12		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:12		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:13		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:13		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:19		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:36		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:37		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:38		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:38		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:39		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:39		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:56:40		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:17		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:19		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:24		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:33		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:34		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:34		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:34		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:35		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:35		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:35		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 08:57:35		/Applications/MAMP/htdocs/App/Controllers/News.php(28)		Пользователя №2 не существует!
+
+2019-05-20 09:03:41		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:06:44		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:06:44		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 09:08:15		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:08:15		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 09:09:47		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:09:47		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 09:35:53		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:35:58		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:36:00		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 09:36:03		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 09:36:03		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 12:59:19		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 12:59:19		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 12:59:24		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 12:59:24		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 12:59:55		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 12:59:55		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:00:27		/Applications/MAMP/htdocs/App/Models/News.php(21)		Автор не выбран
+
+2019-05-20 13:00:27		/Applications/MAMP/htdocs/App/Models/News.php(24)		Текст новости отсутствует
+
+2019-05-20 13:01:08		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:01:08		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:01:34		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:01:34		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:03:01		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:03:01		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:03:31		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:03:31		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:03:47		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:03:47		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:05:10		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:05:10		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:06:36		/Applications/MAMP/htdocs/App/Models/News.php(23)		Автор не выбран
+
+2019-05-20 13:06:36		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:06:56		/Applications/MAMP/htdocs/App/Models/News.php(23)		Автор не выбран
+
+2019-05-20 13:06:56		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:07:28		/Applications/MAMP/htdocs/App/Models/News.php(23)		Автор не выбран
+
+2019-05-20 13:07:28		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:07:57		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:07:57		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:08:28		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:08:28		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:11:47		/Applications/MAMP/htdocs/App/Models/News.php(22)		Автор не выбран
+
+2019-05-20 13:11:47		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:12:45		/Applications/MAMP/htdocs/App/Models/News.php(26)		Текст новости отсутствует
+
+2019-05-20 13:13:52		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-20 13:16:31		/Applications/MAMP/htdocs/App/Models/News.php(25)		Текст новости отсутствует
+
+2019-05-21 20:08:17		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:39		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:39		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:39		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:40		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:40		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:40		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:40		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:09:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:00		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:09		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:10		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:10		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:10		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:10:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:21:51		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:21:51		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:39		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:40		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:41		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:23:56		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:01		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:01		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:02		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:10		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:10		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:11		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:12		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:12		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:21		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:43		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:43		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:48		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:24:53		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №3 не существует!
+
+2019-05-21 20:25:28		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:25:28		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:25:57		/Applications/MAMP/htdocs/App/Controllers/News.php(25)		Пользователя №2 не существует!
+
+2019-05-21 20:26:25		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:26:36		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:26:36		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:04		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:20		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:20		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:21		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:21		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:21		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:21		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:21		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:56		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:56		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:57		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:57		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:57		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:57		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:29:57		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:30:13		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:30:14		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:30:34		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:31:42		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:38:05		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-21 20:38:14		/Applications/MAMP/htdocs/App/Db.php(16)		Невозможно подключиться к базе данных!
+
+2019-05-22 08:03:55		/Applications/MAMP/htdocs/App/Models/News.php(19)		Автор не выбран
+
+2019-05-22 08:03:56		/Applications/MAMP/htdocs/App/Models/News.php(19)		Автор не выбран
+
+2019-05-22 08:03:56		/Applications/MAMP/htdocs/App/Models/News.php(22)		Текст новости отсутствует
+
+2019-05-23 06:58:36		/Applications/MAMP/htdocs/App/Db.php(37)		Ошибка в запросе
+
+2019-05-23 12:08:12		/Applications/MAMP/htdocs/App/Db.php(55)		Ошибка в запросе
+
+2019-05-23 12:08:24		/Applications/MAMP/htdocs/App/Db.php(55)		Ошибка в запросе
+
+2019-05-23 12:15:06		/Applications/MAMP/htdocs/App/Db.php(55)		Ошибка в запросе
+
+2019-05-25 21:00:45		/Applications/MAMP/htdocs/App/Controllers/News.php(27)		Пользователя №3 не существует!
+
+2019-05-25 21:00:46		/Applications/MAMP/htdocs/App/Controllers/News.php(27)		Пользователя №3 не существует!
+
